@@ -1,1 +1,1 @@
-# GItForDevopsTutorial
+# GitForDevopsTutorial
